@@ -24,5 +24,5 @@ This is a simple console application that simulates playing with a virtual pet.
 
 ## Screencast
 
-Watch the screencast here 
+Watch the screencast here https://conestogac.zoom.us/rec/share/qbUWJgfHvtBGRknPoV4uOvRHRGHYONZw6Wuqhak9Org1-3YuIZ43Luim8W_9i-lw.p50u8jnyMXRNLXbb
 
