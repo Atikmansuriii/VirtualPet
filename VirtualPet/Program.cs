@@ -50,7 +50,7 @@ namespace VirtualPet
             Console.WriteLine($"{Name}'s Stats - Hunger: {Hunger}, Happiness: {Happiness}, Health: {Health}");
         }
 
-        // Method to check and display any critical statuses
+        // Method to check and display any critical stats
         public void StatusCheck()
         {
             if (Hunger >= 8)
